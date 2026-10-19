@@ -1,4 +1,4 @@
-# FinMood AI — Quantitative Financial Wellness Prototype
+# FinMood AI — Financial Wellness Prototype
 
 **Status:** Working local prototype. **Not yet connected to Alexa+ or MCP.** Uses local SQLite and optional mood entries. No bank credentials or external services required.
 
